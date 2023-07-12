@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96ddc9b7-3ce7-4fc1-8957-d11bf2b07635" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/login.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app-assets</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/common.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663075929138" />
+    <property name="last_opened_file_path" value="D:/TCI/tci" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ddc9b7-3ce7-4fc1-8957-d11bf2b07635" name="Default Changelist" comment="" />
+      <created>1663074129005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663074129005</updated>
+      <workItem from="1663074130541" duration="1503000" />
+      <workItem from="1663133087325" duration="886000" />
+      <workItem from="1663222432423" duration="709000" />
+      <workItem from="1663306638907" duration="593000" />
+      <workItem from="1663562491047" duration="582000" />
+      <workItem from="1663647676820" duration="590000" />
+      <workItem from="1663740237618" duration="577000" />
+      <workItem from="1663825874782" duration="584000" />
+      <workItem from="1663916140043" duration="592000" />
+      <workItem from="1664174135570" duration="572000" />
+      <workItem from="1664257816282" duration="593000" />
+      <workItem from="1664344369505" duration="845000" />
+      <workItem from="1664434671709" duration="591000" />
+      <workItem from="1664515747179" duration="589000" />
+      <workItem from="1664522672685" duration="1056000" />
+      <workItem from="1664781011131" duration="590000" />
+      <workItem from="1664865919311" duration="1159000" />
+      <workItem from="1664960968328" duration="583000" />
+      <workItem from="1665040157134" duration="594000" />
+      <workItem from="1665391495762" duration="1209000" />
+      <workItem from="1665560221716" duration="594000" />
+      <workItem from="1666060905662" duration="857000" />
+      <workItem from="1666152961935" duration="584000" />
+      <workItem from="1666230928429" duration="588000" />
+      <workItem from="1666239970084" duration="591000" />
+      <workItem from="1666325061718" duration="594000" />
+      <workItem from="1666771252324" duration="1722000" />
+      <workItem from="1666846327574" duration="591000" />
+      <workItem from="1666930617041" duration="591000" />
+      <workItem from="1667196253177" duration="592000" />
+      <workItem from="1667277884955" duration="594000" />
+      <workItem from="1667381733238" duration="506000" />
+      <workItem from="1667451388451" duration="594000" />
+      <workItem from="1667540128974" duration="593000" />
+      <workItem from="1667804295534" duration="591000" />
+      <workItem from="1667887732170" duration="1188000" />
+      <workItem from="1668058742908" duration="592000" />
+      <workItem from="1668150665148" duration="386000" />
+      <workItem from="1668406492647" duration="593000" />
+      <workItem from="1668493994677" duration="592000" />
+      <workItem from="1668578608108" duration="591000" />
+      <workItem from="1668660609667" duration="261000" />
+      <workItem from="1668754606852" duration="581000" />
+      <workItem from="1669015094593" duration="592000" />
+      <workItem from="1669097574020" duration="594000" />
+      <workItem from="1669182848895" duration="593000" />
+      <workItem from="1669271568536" duration="593000" />
+      <workItem from="1669357487144" duration="588000" />
+      <workItem from="1669632271366" duration="594000" />
+      <workItem from="1669789925006" duration="593000" />
+      <workItem from="1669876994628" duration="585000" />
+      <workItem from="1669922437071" duration="578000" />
+      <workItem from="1669963302743" duration="1187000" />
+      <workItem from="1670220907345" duration="593000" />
+      <workItem from="1670306668865" duration="587000" />
+      <workItem from="1670393029130" duration="593000" />
+      <workItem from="1670483975239" duration="593000" />
+      <workItem from="1670568653092" duration="593000" />
+      <workItem from="1670827400527" duration="592000" />
+      <workItem from="1670907035497" duration="592000" />
+      <workItem from="1671019133453" duration="592000" />
+      <workItem from="1671086067184" duration="589000" />
+      <workItem from="1671169718293" duration="593000" />
+      <workItem from="1671429663746" duration="592000" />
+      <workItem from="1671518766647" duration="594000" />
+      <workItem from="1671603094494" duration="965000" />
+      <workItem from="1671692505630" duration="271000" />
+      <workItem from="1671778905056" duration="592000" />
+      <workItem from="1671975078013" duration="580000" />
+      <workItem from="1672037952275" duration="593000" />
+      <workItem from="1672217132083" duration="586000" />
+      <workItem from="1672296339786" duration="593000" />
+      <workItem from="1672383682860" duration="592000" />
+      <workItem from="1672635241591" duration="590000" />
+      <workItem from="1672728665324" duration="583000" />
+      <workItem from="1672816244347" duration="592000" />
+      <workItem from="1672901642887" duration="596000" />
+      <workItem from="1672982939087" duration="583000" />
+      <workItem from="1673245077226" duration="593000" />
+      <workItem from="1673333690250" duration="585000" />
+      <workItem from="1673418756012" duration="595000" />
+      <workItem from="1673506077964" duration="595000" />
+      <workItem from="1673608327055" duration="593000" />
+      <workItem from="1673852496331" duration="590000" />
+      <workItem from="1673938102483" duration="1083000" />
+      <workItem from="1674023751476" duration="578000" />
+      <workItem from="1674111323155" duration="581000" />
+      <workItem from="1674113551518" duration="594000" />
+      <workItem from="1674197891180" duration="594000" />
+      <workItem from="1674455984895" duration="593000" />
+      <workItem from="1674542848866" duration="594000" />
+      <workItem from="1674629715131" duration="593000" />
+      <workItem from="1674711651128" duration="504000" />
+      <workItem from="1674802429048" duration="582000" />
+      <workItem from="1675061379485" duration="593000" />
+      <workItem from="1675150840124" duration="279000" />
+      <workItem from="1675234740996" duration="590000" />
+      <workItem from="1675321249474" duration="593000" />
+      <workItem from="1675419803725" duration="594000" />
+      <workItem from="1675621936929" duration="590000" />
+      <workItem from="1675661665982" duration="1219000" />
+      <workItem from="1675749630944" duration="1244000" />
+      <workItem from="1675836408308" duration="577000" />
+      <workItem from="1675925351796" duration="593000" />
+      <workItem from="1676012069155" duration="593000" />
+      <workItem from="1676271352460" duration="594000" />
+      <workItem from="1676357642197" duration="547000" />
+      <workItem from="1676444107954" duration="578000" />
+      <workItem from="1676530689986" duration="592000" />
+      <workItem from="1676617074514" duration="589000" />
+      <workItem from="1676963374342" duration="587000" />
+      <workItem from="1677049129164" duration="591000" />
+      <workItem from="1677135455870" duration="592000" />
+      <workItem from="1677219851325" duration="594000" />
+      <workItem from="1677479720693" duration="594000" />
+      <workItem from="1677655486930" duration="585000" />
+      <workItem from="1677737950247" duration="595000" />
+      <workItem from="1677824030366" duration="594000" />
+      <workItem from="1678169285527" duration="591000" />
+      <workItem from="1678255142668" duration="594000" />
+      <workItem from="1678340822385" duration="585000" />
+      <workItem from="1678443156660" duration="594000" />
+      <workItem from="1678452208239" duration="593000" />
+      <workItem from="1678688775740" duration="594000" />
+      <workItem from="1678862429142" duration="594000" />
+      <workItem from="1678945904357" duration="592000" />
+      <workItem from="1679036580630" duration="590000" />
+      <workItem from="1679294773361" duration="592000" />
+      <workItem from="1679382468598" duration="585000" />
+      <workItem from="1679471059523" duration="595000" />
+      <workItem from="1679628185563" duration="450000" />
+      <workItem from="1679888095182" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84364000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.009061834" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09127517" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/js/login.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app-assets/img/logos/logo-color-big.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/login.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
